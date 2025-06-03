@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-[🌐**Project Page**](https://fast-in-slow.github.io/) | [🎥**Demo**](https://fast-in-slow.github.io/)
+[🌐**Project Page**](https://fast-in-slow.github.io/) | [✍️**Paper(Arxiv)**](https://arxiv.org/pdf/2506.01953) | [🎥**Demo**](https://fast-in-slow.github.io/)
 
 Hao Chen, Jiaming Liu, Chenyang Gu, Zhuoyang Liu, Renrui Zhang, Xiaoqi Li, Xiao He, Yandong Guo, 
 Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng
@@ -88,3 +88,17 @@ See the ``test_rlbench.sh`` and ``scripts/sim.py`` for more testing details.
 ## 📜️ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📚 BibTeX
+
+```tex
+@misc{chen2025fastinslowdualsystemfoundationmodel,
+      title={Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning}, 
+      author={Hao Chen and Jiaming Liu and Chenyang Gu and Zhuoyang Liu and Renrui Zhang and Xiaoqi Li and Xiao He and Yandong Guo and Chi-Wing Fu and Shanghang Zhang and Pheng-Ann Heng},
+      year={2025},
+      eprint={2506.01953},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2506.01953}, 
+}
+``` 
