@@ -19,7 +19,7 @@ Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng
 
 ## ✨ News ✨
 - [2025/06/03] Fast-in-Slow is now live on arXiv with code release! 🚀 
-
+- [2025/07/08] The pretrained checkpoint on a large-scale robotic dataset has been released! 🚀 
 
 ## 📦 Installation
 
@@ -80,6 +80,8 @@ Our code is built based on [HybridVLA](https://github.com/PKU-HMI-Lab/Hybrid-VLA
 - `timm`: customized timm package
 
 ## 💡Getting Started
+
+You can find the [Pretrained Checkpoint](https://huggingface.co/haosad/fisvla/tree/main) from HF🤗.
 
 See the ``train.sh`` and ``scripts/train.py`` for more training details.
 
